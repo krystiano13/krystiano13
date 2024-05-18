@@ -11,4 +11,3 @@ I am a graduate of a technical high school in computer<br>science. After school 
 ---
 [![](https://visitcount.itsvg.in/api?id=krystiano13&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
