@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a graduate of a technical high school in computer<br>science. After school sessions, I devoted myself to<br>learning programming, which became my most<br>important hobby at that time. I would like to<br>significantly expand my skills in this field by starting a<br>career as a programmer
+I am a graduate of a technical high school in computer<br>science. After school sessions, I devoted myself to<br>learning programming, which became my most<br>important hobby at that time. I would like to<br>significantly expand my skills in this field by starting a<br>career as a programmer.
 
 
 # 💻 Tech Stack:
